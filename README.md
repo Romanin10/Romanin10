@@ -12,5 +12,5 @@ Marcus Vinícius Augusto Romano
 
 Qualquer dúvida entre em contato
 <a href="xxxxxxxxxxxxx@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"/></a>
-![](XXXXXXXXXXXXX) a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://media1.tenor.com/m/eD5527t3o04AAAAd/estilo-%C3%A9-pra-poucos-n%C3%A9-s%C3%A3o-paulo-fc.gif) a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
